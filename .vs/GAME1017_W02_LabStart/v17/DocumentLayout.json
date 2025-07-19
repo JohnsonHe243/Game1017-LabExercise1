@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jinhe\\Desktop\\Lab Exercise 1\\GAME1017_LE1_Jinhong_He\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3502B1D6-7317-CE56-CF97-AB647B6CBDC7}|Assembly-CSharp.csproj|c:\\users\\jinhe\\desktop\\lab exercise 1\\game1017_le1_jinhong_he\\assets\\_myassets\\_scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3502B1D6-7317-CE56-CF97-AB647B6CBDC7}|Assembly-CSharp.csproj|solutionrelative:assets\\_myassets\\_scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3502B1D6-7317-CE56-CF97-AB647B6CBDC7}|Assembly-CSharp.csproj|C:\\Users\\jinhe\\Desktop\\Lab Exercise 1\\GAME1017_LE1_Jinhong_He\\assets\\_myassets\\_scripts\\canvasscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3502B1D6-7317-CE56-CF97-AB647B6CBDC7}|Assembly-CSharp.csproj|solutionrelative:assets\\_myassets\\_scripts\\canvasscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\jinhe\\Desktop\\Lab Exercise 1\\GAME1017_LE1_Jinhong_He\\Assets\\_MyAssets\\_Scripts\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_MyAssets\\_Scripts\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\jinhe\\Desktop\\Lab Exercise 1\\GAME1017_LE1_Jinhong_He\\Assets\\_MyAssets\\_Scripts\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\_MyAssets\\_Scripts\\SoundManager.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T02:46:26.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CanvasScript.cs",
+              "DocumentMoniker": "C:\\Users\\jinhe\\Desktop\\Lab Exercise 1\\GAME1017_LE1_Jinhong_He\\Assets\\_MyAssets\\_Scripts\\CanvasScript.cs",
+              "RelativeDocumentMoniker": "Assets\\_MyAssets\\_Scripts\\CanvasScript.cs",
+              "ToolTip": "C:\\Users\\jinhe\\Desktop\\Lab Exercise 1\\GAME1017_LE1_Jinhong_He\\Assets\\_MyAssets\\_Scripts\\CanvasScript.cs",
+              "RelativeToolTip": "Assets\\_MyAssets\\_Scripts\\CanvasScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhP3dK9TxNhHMDx3/P02mu50p5IaSNoCLS\u002BkEuJEN4aNTB0IDiYIBJMNyZXRTBxcBNnnUBHEgaHTgy1CaVOphJICBhaG\u002Bi1R6XHlfZK27v22nucjIn\u002BBfrZv9sX4J9nAACIkAg1NzPHWketrXVvnXHedzL9j/rpwECgtrW1hcZmxi6Jt0VL4GlAW3m90nZ669TsGHBofJTXMSEE40M8LCtysIZre0wrs2ejbHssYj/mvLn2Y\u002BnYo2hK0KSbgnyGH85X85/VhhoUKGEYXgGmQgchNlPILG0L20Muq8voG/Ed0hTdqGpVyXPZY6lr9WebyU0uU8hAUkouAoZuoSQ4iU4eu8G9T4XjYapcL1\u002BjEAWTNye/GpDhBQFSklRJ6WnpyREga0NXh\u002B7FxTgYsXFtmpu\u002Bm5WzZxe1i0\u002Bd0FmlwkdhcLW4YPDK4JGqqfN\u002Bzh9HCOkAAIQQnJWyot1i10wGE\u002BqwdojtTLtOG2kNI1yMQlTHAABNvQmAoJEsJfO/YgAAWZbZcqP8fn1nvTchJXoiyciHhY0FNiEm3E1oPu\u002Bz9bGUz\u002BkDFamQKqbMhWqBC\u002B2HzgEAxKKo7BZ2\u002BS5j15L/un9JqkjIgAwr8yPzi6tfVuWUnHrnKDlK1MTARCN3lkvH0rE7TdJ8mzpPaTRFQ0WrJHZ\u002B7DwZHxuPpS/Si6yZhaneKZ7r4HjWzGpqTU1HX0YbiBCCN/Y3Rk8KJ28i3yM3hJIAdosdutu6D2zENrs8u3z2e5u/YYSQznBMjG1jH4AO3mK16FVUxasS9aHpmyn/Z/Af\u002BgnU5B69svpg\u002BgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-07-19T02:46:26.532Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
